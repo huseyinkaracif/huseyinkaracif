@@ -35,18 +35,6 @@ As a lifelong learner, I'm always seeking opportunities to grow and expand my kn
 
 <h3> <img src="https://github.com/hsynkrcf/hsynkrcf/blob/26415df7b03fc1c803fdbca279522863bd28e591/assets/techstack.gif?raw=true" width="25" height="25">  Tech Stack: </h3>
 
-<div align="center" style="display: inline_block;"><br>
-  <img align="center" alt="hsynkrcf-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   - 
-  <img align="center" alt="hsynkrcf-Flutter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   - 
-  <img align="center" alt="hsynkrcf-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   - 
-  <img align="center" alt="hsynkrcf-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
-   - 
-  <img align="center" alt="hsynkrcf-DotNetCore" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
  ## Eski Hesabım => https://github.com/hsynkrcf 😢
